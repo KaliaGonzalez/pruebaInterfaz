@@ -3,10 +3,10 @@ import	java.awt.*;
 import javax.swing.*;
 @SuppressWarnings("serial")
 public class InterfazPrueba extends JFrame{ 
-	public final static String RUTA_IMAGEN = "./data/Captura.jpg";
+	public final static String RUTA_IMAGEN = "./data/prueba.jpg";
 	public InterfazPrueba () {  
 		setTitle("Reservas CarPrime"); 
-		setSize(800,800); 
+		setSize(1500,1500); 
 		setResizable(false); 
 		setDefaultCloseOperation(EXIT_ON_CLOSE); 
 		
